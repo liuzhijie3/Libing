@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libing.IService", "Libing.IService\Libing.IService.csproj", "{CBD29E3B-A4A5-4665-BB32-D36B8C820DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libing.Service", "Libing.Service\Libing.Service.csproj", "{53D1E0E5-859D-450E-91E3-CB2B19A95959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libing.Orleans.Client", "Libing.Orleans.Client\Libing.Orleans.Client.csproj", "{31FC782E-5FF8-4EE9-A644-4BAC2AF1AF67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libing.WebApi", "Libing.WebApi\Libing.WebApi.csproj", "{4392B59E-159D-458C-91A5-5CDF5CD1F0F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libing.Common", "Libing.Common\Libing.Common.csproj", "{58EB9392-FCE0-4B48-A4A0-433FF9507EEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libing.Orleans.Host", "Libing.Orleans.Host\Libing.Orleans.Host.csproj", "{A901543E-6DD5-4AE9-ADC4-778559353E38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD29E3B-A4A5-4665-BB32-D36B8C820DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD29E3B-A4A5-4665-BB32-D36B8C820DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD29E3B-A4A5-4665-BB32-D36B8C820DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD29E3B-A4A5-4665-BB32-D36B8C820DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D1E0E5-859D-450E-91E3-CB2B19A95959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D1E0E5-859D-450E-91E3-CB2B19A95959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D1E0E5-859D-450E-91E3-CB2B19A95959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D1E0E5-859D-450E-91E3-CB2B19A95959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31FC782E-5FF8-4EE9-A644-4BAC2AF1AF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FC782E-5FF8-4EE9-A644-4BAC2AF1AF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FC782E-5FF8-4EE9-A644-4BAC2AF1AF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FC782E-5FF8-4EE9-A644-4BAC2AF1AF67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4392B59E-159D-458C-91A5-5CDF5CD1F0F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4392B59E-159D-458C-91A5-5CDF5CD1F0F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4392B59E-159D-458C-91A5-5CDF5CD1F0F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4392B59E-159D-458C-91A5-5CDF5CD1F0F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58EB9392-FCE0-4B48-A4A0-433FF9507EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EB9392-FCE0-4B48-A4A0-433FF9507EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EB9392-FCE0-4B48-A4A0-433FF9507EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EB9392-FCE0-4B48-A4A0-433FF9507EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A901543E-6DD5-4AE9-ADC4-778559353E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A901543E-6DD5-4AE9-ADC4-778559353E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A901543E-6DD5-4AE9-ADC4-778559353E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A901543E-6DD5-4AE9-ADC4-778559353E38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE5F856B-C22B-4846-A25D-654EE03BBA69}
+	EndGlobalSection
+EndGlobal
